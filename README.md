@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JUAN57755
 - 👀 I’m interested in Making games
-- 🌱 I’m currently learning GITHUB
+- 🌱 I’m currently learning how to develop apps and websites etc.
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me Email e24693189@miescuela.pr
 
